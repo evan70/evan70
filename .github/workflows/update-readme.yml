@@ -1,0 +1,32 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # každú hodinu
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Generate README
+        run: node scripts/generate-readme.js
+
+      - name: Commit README
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README dynamically" || echo "No changes"
+          git push
