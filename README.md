@@ -1,10 +1,10 @@
-# 👨‍💻 Ivan Paldan – Senior Full-Stack Developer
+#Ivan Paldan – Senior Full-Stack Developer
 
 [GitHub Profile](https://github.com/evan70) | [Portfolio Demo](https://boot.responsive.sk/)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### php8-shop
 [![PHP](https://img.shields.io/badge/PHP-8.0-blue?style=for-the-badge&logo=php)](https://github.com/evan70/php8-shop)
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌟 Key Skills
+## Key Skills
 
 - **Languages:** PHP, JavaScript, Python, SQL  
 - **Databases:** MySQL, PostgreSQL, SQLite, Oracle  
@@ -66,7 +66,7 @@
 
 ---
 
-## 🔧 Workflow
+## Workflow
 
 - Async collaboration via GitHub, code review & issues  
 - Clear specifications, reproducible environments  
