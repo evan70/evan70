@@ -1,6 +1,6 @@
-# 👨‍💻 Ivan Paldan – Senior PHP & Full-Stack Developer
+# 👨‍💻 Ivan Paldan – Senior Full-Stack Developer
 
-[GitHub Profile](https://github.com/evan70) | [Portfolio Demo](http://evan.okamzite.eu/)
+[GitHub Profile](https://github.com/evan70) | [Portfolio Demo](https://boot.responsive.sk/)
 
 ---
 
@@ -62,7 +62,7 @@
 - **Databases:** MySQL, PostgreSQL, SQLite, Oracle  
 - **OS & Server:** Linux (Arch, Debian, Ubuntu, Gentoo, FreeBSD/OpenBSD), Windows Server, MacOS  
 - **Tools & DevOps:** Docker, Vagrant, CI/CD, Server Management  
-- **Frontend:** HTML/XHTML, CSS, AJAX, XML/XSLT  
+- **Frontend:** HTML/XHTML, HTMX, CSS, AJAX, XML/XSLT  
 
 ---
 
