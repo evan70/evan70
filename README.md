@@ -1,4 +1,4 @@
-# Evan McDan – Senior Full-Stack Developer
+# Evan McDan – Senior Full-Stack Dev
 
 [GitHub Profile](https://github.com/evan70) | [Portfolio Demo](https://boot.responsive.sk/)
 
